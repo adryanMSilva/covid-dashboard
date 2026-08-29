@@ -202,5 +202,4 @@ def main():
         exibir_dados_brutos(df_filtrado)
 
 
-if __name__ == "__main__":
-    main()
+main()
