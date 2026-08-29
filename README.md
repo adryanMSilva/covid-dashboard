@@ -32,5 +32,5 @@ Our World in Data — COVID-19 Dataset.
 
 ```bash
 pip install -r requirements.txt
-streamlit run covid_dashboard.py
+streamlit run main.py
 ```
